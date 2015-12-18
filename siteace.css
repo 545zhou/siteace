@@ -1,0 +1,26 @@
+/* CSS declarations go here */
+.hidden_div{
+	display:none;
+}
+body{
+	padding-top:60px;
+}
+.navbar{
+	text-align: center;
+}
+
+.login-div{
+	padding-top:15px;
+}
+
+.btn-add-form{
+	padding-left: 20px;
+}
+
+.item{
+	padding-left: 20px;
+}
+
+.form-control{
+	width: 500px;
+}
